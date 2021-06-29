@@ -31,6 +31,7 @@ class Navbar extends Component {
                         <nav>
                             <ul className="md:flex grid grid-cols-2 items-center justify-between text-base text-white pt-4 md:pt-0">
                                 <a href="https://www.pilotosdavila.com.br/" className="hidden md:block classA text-lg p-3 mr-5 hover:text-red-500">SITE PRINCIPAL</a>
+                                <a href="/" className="hidden md:block classA text-lg p-3 mr-5 hover:text-red-500">ENDPOINTS</a>
                             </ul>
                         </nav>
                     </div>
